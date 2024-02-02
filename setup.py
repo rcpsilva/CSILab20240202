@@ -4,7 +4,7 @@ setup(
     name='CSILab20240202',
     version='0.1',
     packages=find_packages(),
-    url='',
+    url='https://github.com/rcpsilva/CSILab20240202',
     license='MIT',
     author='Rodrigo Silva',
     author_email='rcpsilva@gmail.com',
